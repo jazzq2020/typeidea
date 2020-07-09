@@ -1,0 +1,21 @@
+ssh配置结果：
+
+
+
+Your identification has been saved in /home/jazzq2019/.ssh/id_rsa.
+Your public key has been saved in /home/jazzq2019/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:D/Rsl93IrR0OAR3JM7yBp6NV5x7A9hNG/eez34qcmoA jzq_8888@sina.com.cn
+The key's randomart image is:
++---[RSA 2048]----+
+|           .*.+..|
+|           ..# +.|
+|        .   =.@ o|
+|       . o + =.Oo|
+|        S * +.=o*|
+|       . = .  o=o|
+|      E . .   ..+|
+|         . o o ..|
+|          o.+ ..+|
++----[SHA256]-----+
+
